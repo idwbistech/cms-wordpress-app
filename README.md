@@ -40,10 +40,6 @@ npx create-next-app --example cms-wordpress cms-wordpress-app
 ```
 
 ```bash
-yarn create next-app --example cms-wordpress cms-wordpress-app
-```
-
-```bash
 pnpm create next-app --example cms-wordpress cms-wordpress-app
 ```
 
