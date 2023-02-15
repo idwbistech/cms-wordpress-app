@@ -3,7 +3,7 @@ import cn from 'classnames'
 import { EXAMPLE_PATH } from '../lib/constants'
 
 export default function Alert({ preview }) {
-  return <p>Copyright reserve by IDW</p>
+  return <p>.</p>
 
  
 }
