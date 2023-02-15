@@ -7,7 +7,7 @@ export default function Intro() {
     <div className='flex-col md:flex-row flex items-center md:justify-between mt-16 mb-16 md:mb-12' style={{backgroundImage: `url("https://idw.design/wp-content/uploads/2023/02/4-edited.png")`,
     backgroundRepeat: "no-repeat",
     backgroundSize: "cover",
-    height: "50%"
+    height: "51%"
     
     }}>
     
